@@ -10,7 +10,7 @@
   padding: 30px;
   width: 30%;
   min-width: 380px;
-
+  background-color: #f6d198;
   margin-top: 30px;
 }
 
@@ -23,6 +23,16 @@
 .profile-content {
   align-self: center;
   justify-content: center;
+}
+
+.update-card {
+  background-color: #f6d198;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.update-form {
+  margin-right: 5px;
 }
 .favorites-container {
   display: flex;

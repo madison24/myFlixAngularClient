@@ -12,7 +12,7 @@
           ? deleteFaveMovies(movie._id)
           : addFaveMovies(movie._id)
       "
-      [color]="isFave(movie._id) ? 'accent' : 'warn'"
+      [color]="isFave(movie._id) ? 'accent' : 'accent'"
     >
       <mat-icon>{{
         isFave(movie._id) ? "favorite" : "favorite_border"
