@@ -8,7 +8,7 @@ myFlix-Angular-Client is the client-side for an application called myFLix, based
 
 <img src=src/img/welcomescreen.png height="300"/>
 <img src=src/img/moviescreen.png height="300"/>
-<img src=src/img/welcomescreen.png height="500"/>
+<img src=src/img/profilescreen.png height="300"/>
 
 ## Features
 
