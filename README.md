@@ -6,6 +6,8 @@ This is the ghpages hosted app for myFLix Angular.
 
 myFlix-Angular-Client is the client-side for an application called myFLix, based on the exsisting server side code I created () and was built using Angular.
 
+<img src=src/img/welcomescreen.png height="300"/>
+<img src=src/img/moviescreen.png height="300"/>
 <img src=src/img/welcomescreen.png height="500"/>
 
 ## Features
