@@ -12,8 +12,6 @@ myFlix-Angular-Client is the client-side for an application called myFLix, based
 - Each movie has a favorite button for the user to add or remove a movie to/from their favorites list.
 - Each user has a profile page that shows the account details, favorite movies, and a form to update the user.
 
-## Visualization
-
 ## Technology used
 
 - Angular
