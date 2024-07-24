@@ -23,12 +23,12 @@ This project in total took about 3 weeks to complete. This time also included pr
 1. After creating the new app from my terminal I opened the src folder and ran the command to fetch the API I previously created for the myFlix app.
 
 2. I then implemented user registration and login forms using Angular Material.
-   <img src=src/img/welcomescreen.png height="300"/>
+<img src=src/img/welcomescreen.png height="300"/>
 
 3. After the user registration forms I added welcome component, movie component, and profile components and used Angular's router to implement a route for each view. Along with adding UI to create a better look/feel to the app.
-   <img src=src/img/moviescreen.png height="300"/>
+<img src=src/img/moviescreen.png height="300"/>
 
-   <img src=src/img/profilescreen.png height="690" />
+<img src=src/img/profilescreen.png height="690" />
 
 4. Finally, I added comments in my code using TypeDoc to explain the choices I made in development for myself and other developers who view the project.
 
